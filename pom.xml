@@ -4,18 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.heima</groupId>
-    <artifactId>heima-leadnews</artifactId>
+    <groupId>com.xiaou</groupId>
+    <artifactId>xiaou-leadnews</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>heima-leadnews-common</module>
-        <module>heima-leadnews-utils</module>
-        <module>heima-leadnews-model</module>
-        <module>heima-leadnews-feign-api</module>
-        <module>heima-leadnews-service</module>
-        <module>heima-leadnews-gateway</module>
-        <module>heima-leadnews-test</module>
+        <module>xiaou-leadnews-common</module>
+        <module>xiaou-leadnews-utils</module>
+        <module>xiaou-leadnews-model</module>
+        <module>xiaou-leadnews-feign-api</module>
+        <module>xiaou-leadnews-service</module>
+        <module>xiaou-leadnews-gateway</module>
+        <module>xiaou-leadnews-test</module>
     </modules>
 
     <!-- 继承Spring boot工程 -->
@@ -86,23 +86,23 @@
         <dependencies>
             <!--内部依赖工程-->
             <dependency>
-                <artifactId>heima-leadnews-feign-api</artifactId>
-                <groupId>com.heima</groupId>
+                <artifactId>xiaou-leadnews-feign-api</artifactId>
+                <groupId>com.xiaou</groupId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <artifactId>heima-leadnews-common</artifactId>
-                <groupId>com.heima</groupId>
+                <artifactId>xiaou-leadnews-common</artifactId>
+                <groupId>com.xiaou</groupId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <artifactId>heima-leadnews-model</artifactId>
-                <groupId>com.heima</groupId>
+                <artifactId>xiaou-leadnews-model</artifactId>
+                <groupId>com.xiaou</groupId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <artifactId>heima-leadnews-utils</artifactId>
-                <groupId>com.heima</groupId>
+                <artifactId>xiaou-leadnews-utils</artifactId>
+                <groupId>com.xiaou</groupId>
                 <version>${project.version}</version>
             </dependency>
             <!-- Spring boot 特殊处理包 -->
@@ -200,7 +200,7 @@
             <dependency>
                 <groupId>com.fasterxml.jackson.dataformat</groupId>
                 <artifactId>jackson-dataformat-xml</artifactId>
-                <version>${fastjson.dataformat.version}</version>
+                <version>2.9.7</version>
             </dependency>
             <!-- spring colud -->
             <dependency>

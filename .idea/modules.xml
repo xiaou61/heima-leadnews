@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews.iml" filepath="$PROJECT_DIR$/heima-leadnews.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" filepath="$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-feign-api/heima-leadnews-feign-api.iml" filepath="$PROJECT_DIR$/heima-leadnews-feign-api/heima-leadnews-feign-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-gateway.iml" filepath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" filepath="$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-service.iml" filepath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-test/heima-leadnews-test.iml" filepath="$PROJECT_DIR$/heima-leadnews-test/heima-leadnews-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" filepath="$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews.iml" filepath="$PROJECT_DIR$/xiaou-leadnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews-common/xiaou-leadnews-common.iml" filepath="$PROJECT_DIR$/xiaou-leadnews-common/xiaou-leadnews-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews-feign-api/xiaou-leadnews-feign-api.iml" filepath="$PROJECT_DIR$/xiaou-leadnews-feign-api/xiaou-leadnews-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews-gateway/xiaou-leadnews-gateway.iml" filepath="$PROJECT_DIR$/xiaou-leadnews-gateway/xiaou-leadnews-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews-model/xiaou-leadnews-model.iml" filepath="$PROJECT_DIR$/xiaou-leadnews-model/xiaou-leadnews-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews-service/xiaou-leadnews-service.iml" filepath="$PROJECT_DIR$/xiaou-leadnews-service/xiaou-leadnews-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews-test/xiaou-leadnews-test.iml" filepath="$PROJECT_DIR$/xiaou-leadnews-test/xiaou-leadnews-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaou-leadnews-utils/xiaou-leadnews-utils.iml" filepath="$PROJECT_DIR$/xiaou-leadnews-utils/xiaou-leadnews-utils.iml" />
     </modules>
   </component>
 </project>

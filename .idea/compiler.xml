@@ -6,17 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="heima-leadnews-test" />
-        <module name="heima-leadnews-utils" />
-        <module name="heima-leadnews-feign-api" />
-        <module name="heima-leadnews-common" />
-        <module name="heima-leadnews-model" />
-        <module name="heima-leadnews-service" />
-        <module name="heima-leadnews-gateway" />
+        <module name="xiaou-leadnews-common" />
+        <module name="xiaou-leadnews-utils" />
+        <module name="xiaou-leadnews-test" />
+        <module name="xiaou-leadnews-gateway" />
+        <module name="xiaou-leadnews-model" />
+        <module name="xiaou-leadnews-feign-api" />
+        <module name="xiaou-leadnews-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="heima-leadnews" target="1.8" />
       <module name="heima-leadnews-apis" target="1.8" />
       <module name="heima-leadnews-common" target="1.8" />
       <module name="heima-leadnews-feign-api" target="1.8" />
@@ -25,6 +24,14 @@
       <module name="heima-leadnews-service" target="1.8" />
       <module name="heima-leadnews-test" target="1.8" />
       <module name="heima-leadnews-utils" target="1.8" />
+      <module name="xiaou-leadnews" target="1.8" />
+      <module name="xiaou-leadnews-common" target="1.8" />
+      <module name="xiaou-leadnews-feign-api" target="1.8" />
+      <module name="xiaou-leadnews-gateway" target="1.8" />
+      <module name="xiaou-leadnews-model" target="1.8" />
+      <module name="xiaou-leadnews-service" target="1.8" />
+      <module name="xiaou-leadnews-test" target="1.8" />
+      <module name="xiaou-leadnews-utils" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -37,6 +44,14 @@
       <module name="heima-leadnews-service" options="-parameters" />
       <module name="heima-leadnews-test" options="-parameters" />
       <module name="heima-leadnews-utils" options="-parameters" />
+      <module name="xiaou-leadnews" options="-parameters" />
+      <module name="xiaou-leadnews-common" options="-parameters" />
+      <module name="xiaou-leadnews-feign-api" options="-parameters" />
+      <module name="xiaou-leadnews-gateway" options="-parameters" />
+      <module name="xiaou-leadnews-model" options="-parameters" />
+      <module name="xiaou-leadnews-service" options="-parameters" />
+      <module name="xiaou-leadnews-test" options="-parameters" />
+      <module name="xiaou-leadnews-utils" options="-parameters" />
     </option>
   </component>
 </project>
